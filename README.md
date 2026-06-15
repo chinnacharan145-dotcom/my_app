@@ -1,2 +1,2 @@
 # my_app
-this is for me
+this is for my personal information
